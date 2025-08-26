@@ -1,0 +1,17 @@
+# Large data files
+data/master_precinct_shapes.csv
+
+# Streamlit cache
+.streamlit/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter notebooks (if using)
+.ipynb_checkpoints/
+
+# Large data directory (if you have other big files)
+# data/

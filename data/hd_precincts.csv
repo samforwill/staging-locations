@@ -1,0 +1,428 @@
+Current Turf,van_precinct_name,van_precinct_id,county_name,voters,supporters
+R03B - HD 21,110 - Buckland Mills,296681,Prince William,4105,2111
+R03B - HD 21,112 - Burke-Nickens,1835303,Prince William,4725,2389
+R03B - HD 21,202 - West Gate,2228497,Prince William,2524,1721
+R03B - HD 21,401 - Evergreen,296703,Prince William,3377,1171
+R03B - HD 21,402 - Gravely,2228489,Prince William,4309,1719
+R03B - HD 21,403 - Bull Run,296705,Prince William,3474,1820
+R03B - HD 21,404 - Unity Braxton,296707,Prince William,2281,1451
+R03B - HD 21,405 - Ben Lomond,296706,Prince William,3044,1938
+R03B - HD 21,406 - Alvey,296708,Prince William,3614,1722
+R03B - HD 21,407 - Heritage Hunt,296709,Prince William,4142,2068
+R03B - HD 21,409 - Tyler,892250,Prince William,5145,2740
+R03B - HD 21,410 - Mountain View,296713,Prince William,4459,2132
+R03B - HD 21,411 - Mullen,296714,Prince William,3698,2635
+R03B - HD 21,412 - Catharpin,1824848,Prince William,2489,923
+R03B - HD 21,413 - Reagan,1824849,Prince William,3737,1710
+R03B - HD 21,414 - Seymour,2228516,Prince William,2626,1634
+R03C - HD 30,307 - Middleburg,296409,Loudoun,1473,638
+R03C - HD 30,308 - St Louis,296410,Loudoun,1502,644
+R03C - HD 30,309 - Aldie,296411,Loudoun,1102,431
+R03C - HD 30,313 - Pinebrook,1071014,Loudoun,2291,1345
+R03C - HD 30,319 - John Champe,1936698,Loudoun,1899,1095
+R03C - HD 30,326 - Independence,2302163,Loudoun,3623,1839
+R03C - HD 30,327 - Willard,2302169,Loudoun,1699,741
+R03C - HD 30,328 - Hovatter,2302171,Loudoun,2415,1271
+R03C - HD 30,329 - Lightridge,2302166,Loudoun,3223,1550
+R03C - HD 30,401 - Salem,296030,Fauquier,3520,1179
+R03C - HD 30,401 - West Lovettsville,296412,Loudoun,4157,1517
+R03C - HD 30,402 - Leeds,296031,Fauquier,3514,1198
+R03C - HD 30,402 - Waterford,296413,Loudoun,3047,1118
+R03C - HD 30,403 - Lucketts,296414,Loudoun,2810,1125
+R03C - HD 30,409 - Clarkes Gap,296419,Loudoun,3485,1424
+R03C - HD 30,411 - East Lovettsville,546537,Loudoun,2584,929
+R03C - HD 30,413 - Tuscarora,1569599,Loudoun,1698,751
+R03C - HD 30,416 - Hamilton,296406,Loudoun,2787,1179
+R03C - HD 30,421 - Between The Hills,1854598,Loudoun,415,119
+R03C - HD 30,424 - Purcellville,2302161,Loudoun,3616,1621
+R03C - HD 30,425 - Round Hill,2302168,Loudoun,3114,1150
+R03C - HD 30,426 - Hillsboro,2302155,Loudoun,2888,1030
+R03C - HD 30,427 - Philomont,2302158,Loudoun,2496,878
+R03C - HD 30,428 - Mountain View,2302183,Loudoun,4202,1832
+R03C - HD 30,429 - Round Hill Elementary,2302167,Loudoun,3802,1388
+R03C - HD 30,430 - Harmony,2302184,Loudoun,1460,532
+R03C - HD 30,501 - Hopewell,2274014,Fauquier,1534,556
+R03C - HD 30,505 - The Plains,296033,Fauquier,216,99
+R04D - HD 22,101 - Brentsville,296672,Prince William,3251,925
+R04D - HD 22,102 - Cedar Point,296683,Prince William,2822,1381
+R04D - HD 22,103 - Glenkirk,296710,Prince William,3931,2049
+R04D - HD 22,104 - Nokesville,296675,Prince William,4195,1629
+R04D - HD 22,105 - Piney Branch,1992813,Prince William,3331,1631
+R04D - HD 22,107 - Marsteller,296678,Prince William,3862,2049
+R04D - HD 22,108 - Victory,296679,Prince William,3987,2133
+R04D - HD 22,109 - Chris Yung,1569610,Prince William,3805,2145
+R04D - HD 22,111 - Limestone,892246,Prince William,4393,2159
+R04D - HD 22,113 - Lakes,2228462,Prince William,3323,1729
+R04D - HD 22,114 - Bristow Run,296682,Prince William,4146,2097
+R04D - HD 22,203 - Bennett,296673,Prince William,4274,2322
+R04D - HD 22,205 - Buckhall,296674,Prince William,2530,1109
+R04D - HD 22,206 - Coles,1569611,Prince William,3524,1646
+R04D - HD 22,209 - Independent Hill,296680,Prince William,2609,962
+R04D - HD 22,210 - Yates Ford,1569615,Prince William,3527,1576
+R04D - HD 22,214 - Lucasville,1824844,Prince William,3367,1411
+R04D - HD 22,515 - Marshall,892248,Prince William,2767,1296
+R04E - HD 64,101 - Hartwood,296947,Stafford,4981,1372
+R04E - HD 64,102 - Simpson,296949,Stafford,3509,1132
+R04E - HD 64,103 - College,296950,Stafford,3130,1484
+R04E - HD 64,104 - Westlake,2257703,Stafford,2236,569
+R04E - HD 64,106 - Forge,2257684,Stafford,1839,920
+R04E - HD 64,201 - Rock Hill,296951,Stafford,4604,1999
+R04E - HD 64,202 - Roseville,296952,Stafford,3617,1086
+R04E - HD 64,203 - Ruby,296953,Stafford,3121,780
+R04E - HD 64,204 - Stefaniga,296954,Stafford,3746,1626
+R04E - HD 64,401 - Courthouse,296961,Stafford,4124,2786
+R04E - HD 64,402 - Brooke,296962,Stafford,2385,815
+R04E - HD 64,403 - Harbour,296958,Stafford,2369,882
+R04E - HD 64,404 - Government Island,1569623,Stafford,2982,1153
+R04E - HD 64,405 - Hope,2257727,Stafford,4635,2045
+R04E - HD 64,505 - Eskimo Hill,2257742,Stafford,1395,644
+R04E - HD 64,701 - Park Ridge,2257713,Stafford,4272,2077
+R04E - HD 64,702 - Whitson,296971,Stafford,3342,1924
+R04E - HD 64,703 - Hampton,296973,Stafford,4330,2043
+R04E - HD 64,704 - Poole,2257705,Stafford,5793,3214
+R05B - HD 65,101 - Precinct 1 - District One,297234,Fredericksburg (City),4899,3188
+R05B - HD 65,105 - Rocky Run,296948,Stafford,1996,856
+R05B - HD 65,201 - Precinct 1 - District Two,297235,Fredericksburg (City),4365,2631
+R05B - HD 65,301 - Precinct 1 - District Three,297237,Fredericksburg (City),5556,3472
+R05B - HD 65,301 - Salem Elementary,296929,Spotsylvania,2924,1348
+R05B - HD 65,302 - Salem Library,296930,Spotsylvania,4677,2267
+R05B - HD 65,304 - Knights Of Pythias,2274010,Spotsylvania,3256,1411
+R05B - HD 65,401 - Precinct 1 - District Four,297238,Fredericksburg (City),2802,1938
+R05B - HD 65,402 - Precinct 2 - District Four,297239,Fredericksburg (City),2781,1814
+R05B - HD 65,501 - Grafton,296963,Stafford,4956,1829
+R05B - HD 65,502 - Falmouth,296964,Stafford,3320,1416
+R05B - HD 65,503 - Drew,296965,Stafford,4501,1983
+R05B - HD 65,504 - Gayle,296966,Stafford,3291,1772
+R05B - HD 65,601 - Ferry Farm,296967,Stafford,3091,1024
+R05B - HD 65,602 - Chatham,296968,Stafford,3883,1520
+R05B - HD 65,603 - White Oak,296969,Stafford,3750,811
+R05B - HD 65,604 - England Run,1569624,Stafford,1866,1094
+R05B - HD 65,605 - Melchers,2257687,Stafford,4690,2479
+R05C - HD 66,101 - Partlow Ruritan,296920,Spotsylvania,3344,569
+R05C - HD 66,102 - Berkeley,296921,Spotsylvania,3729,795
+R05C - HD 66,103 - John J Wright,296922,Spotsylvania,5886,2305
+R05C - HD 66,104 - Massaponax High,296923,Spotsylvania,4566,1945
+R05C - HD 66,201 - North Madison,295622,Caroline,1679,866
+R05C - HD 66,202 - South Madison,1569549,Caroline,3155,1129
+R05C - HD 66,303 - Wrights Chapel,295625,Caroline,480,120
+R05C - HD 66,401 - Cosner Park,296932,Spotsylvania,3707,1602
+R05C - HD 66,401 - Dawn,295626,Caroline,3069,1352
+R05C - HD 66,402 - Carmel Church,295627,Caroline,981,434
+R05C - HD 66,402 - Germanna Campus,296933,Spotsylvania,4343,2006
+R05C - HD 66,403 - Lee Hill Elementary,296934,Spotsylvania,4344,1965
+R05C - HD 66,404 - New Post Church,2274030,Spotsylvania,2512,1126
+R05C - HD 66,501 - West Mattaponi,295628,Caroline,2000,968
+R05C - HD 66,502 - Milford,1569550,Caroline,1857,680
+R05C - HD 66,601 - Chilesburg,1569551,Caroline,2251,808
+R05C - HD 66,602 - Lake,1569552,Caroline,1787,597
+R05C - HD 66,604 - Courthouse Road Elementary,2274038,Spotsylvania,3143,1501
+R05C - HD 66,701 - Spotswood Elementary,296944,Spotsylvania,3490,1552
+R05C - HD 66,702 - Eastland Church,296945,Spotsylvania,4041,1937
+R05C - HD 66,703 - Lees Parke,296946,Spotsylvania,4220,2484
+R05C - HD 66,704 - Courtland Elementary,1569621,Spotsylvania,4135,1699
+R06B - HD 57,101 - Coalpit,296201,Henrico,4303,2299
+R06B - HD 57,107 - Hungary Creek,296216,Henrico,3938,1999
+R06B - HD 57,110 - Longan,296211,Henrico,4136,2330
+R06B - HD 57,113 - Springfield,296252,Henrico,3919,2237
+R06B - HD 57,301 - Causeway,296240,Henrico,2900,1555
+R06B - HD 57,303 - Colonial Trail,1991019,Henrico,3037,1867
+R06B - HD 57,304 - Innsbrook,296243,Henrico,2471,1529
+R06B - HD 57,306 - Nuckols Farm,296246,Henrico,3922,1940
+R06B - HD 57,309 - Rivers Edge,296256,Henrico,3554,1920
+R06B - HD 57,310 - Sadler,296249,Henrico,3947,2253
+R06B - HD 57,311 - Shady Grove,296250,Henrico,3857,1883
+R06B - HD 57,312 - Short Pump,975949,Henrico,2669,1443
+R06B - HD 57,313 - Stoney Run,296253,Henrico,4286,2193
+R06B - HD 57,402 - Centerville,296116,Goochland,3008,979
+R06B - HD 57,403 - West Creek,2461862,Goochland,1532,684
+R06B - HD 57,407 - Lauderdale,296263,Henrico,2937,1682
+R06B - HD 57,413 - Ridgefield,296268,Henrico,3408,1723
+R06B - HD 57,419 - West End,296272,Henrico,2857,1438
+R06B - HD 57,501 - Manakin,296117,Goochland,2372,670
+R06B - HD 57,502 - Blair,1569585,Goochland,3139,1036
+R07B - HD 73,306 - Winterpock,295688,Chesterfield,4130,1038
+R07B - HD 73,307 - Cosby,948796,Chesterfield,3785,1677
+R07B - HD 73,309 - Skinquarter,295690,Chesterfield,3696,1363
+R07B - HD 73,313 - Woolridge South,295693,Chesterfield,3579,1565
+R07B - HD 73,319 - Magnolia,1991018,Chesterfield,7216,2683
+R07B - HD 73,320 - Dry Creek,2257718,Chesterfield,6060,2530
+R07B - HD 73,401 - Harbour Pointe,295697,Chesterfield,2288,1023
+R07B - HD 73,403 - Brandermill,295699,Chesterfield,3861,1907
+R07B - HD 73,411 - Swift Creek,295707,Chesterfield,3277,1461
+R07B - HD 73,412 - Clover Hill,1991016,Chesterfield,4748,2325
+R07B - HD 73,415 - Evergreen,295692,Chesterfield,3626,1687
+R07B - HD 73,418 - Woolridge North,2257675,Chesterfield,2360,974
+R07B - HD 73,420 - New Tomahawk,295691,Chesterfield,3401,1537
+R07B - HD 73,421 - Lucks Lane,2355397,Chesterfield,4667,1993
+R07B - HD 73,422 - Otterdale,2355392,Chesterfield,5507,2703
+R07B - HD 73,503 - Midlothian,295712,Chesterfield,4675,2122
+R07B - HD 73,510 - Sycamore,295719,Chesterfield,1467,682
+R07B - HD 73,514 - Watkins,295722,Chesterfield,4219,1941
+R07B - HD 73,517 - Roseland,1569558,Chesterfield,3013,1056
+R07C - HD 75,101 - Ward One,297284,Hopewell (City),2216,1090
+R07C - HD 75,102 - South Chester,295662,Chesterfield,3792,1786
+R07C - HD 75,103 - Enon,295663,Chesterfield,5732,2548
+R07C - HD 75,104 - North Chester,295664,Chesterfield,4549,1921
+R07C - HD 75,104 - Rives,296664,Prince George,2335,837
+R07C - HD 75,108 - Ecoff,295668,Chesterfield,5905,2799
+R07C - HD 75,109 - Elizabeth Scott,972596,Chesterfield,5757,2839
+R07C - HD 75,110 - Dutch Gap,295669,Chesterfield,2303,1011
+R07C - HD 75,115 - Cresthill,2355395,Chesterfield,4194,2288
+R07C - HD 75,201 - Ward Two,297285,Hopewell (City),2091,1692
+R07C - HD 75,204 - Courts,296669,Prince George,3026,1559
+R07C - HD 75,205 - Jefferson Park,296670,Prince George,3322,1577
+R07C - HD 75,301 - Ward Three,297286,Hopewell (City),2487,991
+R07C - HD 75,401 - Ward Four,297287,Hopewell (City),2726,1436
+R07C - HD 75,501 - Ward Five,297288,Hopewell (City),2327,987
+R07C - HD 75,601 - Ward Six,297289,Hopewell (City),2084,1410
+R07C - HD 75,701 - Ward Seven,297290,Hopewell (City),2137,1218
+R08B - HD 69,101 - Berkeley A,296335,James City,4744,1993
+R08B - HD 69,101 - Queens Lake,297079,York,2668,1174
+R08B - HD 69,102 - Waller Mill,297081,York,5139,2021
+R08B - HD 69,103 - Magruder,297082,York,5253,2551
+R08B - HD 69,106 - Reservoir,297327,Newport News (City),3560,2506
+R08B - HD 69,108 - Katherine Johnson,297329,Newport News (City),1388,882
+R08B - HD 69,202 - Kiln Creek,297084,York,3751,1512
+R08B - HD 69,301 - Seaford,297085,York,4244,859
+R08B - HD 69,302 - Yorktown,297080,York,2236,770
+R08B - HD 69,303 - Edgehill,297087,York,3770,1722
+R08B - HD 69,401 - Harwoods Mill,297088,York,3989,1202
+R08B - HD 69,401 - Hayes,296106,Gloucester,3350,776
+R08B - HD 69,402 - Dare,297089,York,4353,1321
+R08B - HD 69,402 - Sarahs Creek,296107,Gloucester,2700,608
+R08B - HD 69,403 - Grafton,1569626,York,3053,1051
+R08B - HD 69,501 - Roberts A,296345,James City,2187,1360
+R08B - HD 69,502 - Roberts B,296346,James City,4996,2136
+R08B - HD 69,503 - Roberts C,296347,James City,4736,2216
+R08C - HD 86,001 - Central,297441,Poquoson (City),3528,567
+R08C - HD 86,002 - Eastern,297442,Poquoson (City),3382,436
+R08C - HD 86,003 - Western,297443,Poquoson (City),3241,502
+R08C - HD 86,110 - Phoebus,297253,Hampton (City),865,527
+R08C - HD 86,112 - Smith,297256,Hampton (City),4424,3172
+R08C - HD 86,116 - Jones,297259,Hampton (City),1695,1293
+R08C - HD 86,117 - Kecoughtan,297260,Hampton (City),3139,2332
+R08C - HD 86,201 - Coventry,297083,York,4995,1891
+R08C - HD 86,201 - Patrick,297262,Hampton (City),3560,1943
+R08C - HD 86,202 - Bryan,297263,Hampton (City),3713,2132
+R08C - HD 86,203 - Burbank,297264,Hampton (City),3024,1742
+R08C - HD 86,205 - Asbury,297267,Hampton (City),4683,2066
+R08C - HD 86,209 - Langley,297270,Hampton (City),3491,2166
+R08C - HD 86,213 - Phillips,297275,Hampton (City),4426,2251
+R08C - HD 86,215 - Peake,297277,Hampton (City),1136,892
+R08C - HD 86,217 - Syms,297257,Hampton (City),1580,796
+R08C - HD 86,501 - Tabb,297090,York,4306,1583
+R08C - HD 86,502 - Bethel,297091,York,4909,1995
+R09B - HD 84,054 - Pughsville,1569628,Chesapeake (City),3006,1978
+R09B - HD 84,101 - Belleharbour,1706904,Suffolk (City),1513,953
+R09B - HD 84,101 - Precinct 1-1,297228,Franklin (City),1064,302
+R09B - HD 84,102 - Driver,297599,Suffolk (City),4665,1709
+R09B - HD 84,103 - Cypress Creek B,2228506,Isle of Wight,200,67
+R09B - HD 84,104 - Bennetts Creek,297602,Suffolk (City),1815,844
+R09B - HD 84,105 - Harbourview,297601,Suffolk (City),4370,2274
+R09B - HD 84,201 - Ebenezer,297603,Suffolk (City),2158,607
+R09B - HD 84,201 - Precinct 2-1,297229,Franklin (City),1178,482
+R09B - HD 84,202 - Chuckatuck,297604,Suffolk (City),2417,904
+R09B - HD 84,203 - Kings Fork,297605,Suffolk (City),3851,2531
+R09B - HD 84,203 - Nike Park B,2228499,Isle of Wight,318,99
+R09B - HD 84,204 - Hillpoint,1706905,Suffolk (City),3870,2348
+R09B - HD 84,301 - Precinct 3-1,297230,Franklin (City),867,723
+R09B - HD 84,303 - Benns Church,2228485,Isle of Wight,1727,866
+R09B - HD 84,306 - Deerfield,2274007,Suffolk (City),2248,1155
+R09B - HD 84,401 - Bowling Green,2228447,Isle of Wight,1672,306
+R09B - HD 84,401 - Precinct 4-1,297231,Franklin (City),951,681
+R09B - HD 84,402 - Windsor,296328,Isle of Wight,2771,770
+R09B - HD 84,403 - Southside,297615,Suffolk (City),1827,1534
+R09B - HD 84,404 - Booker T Washington,1706907,Suffolk (City),2624,2261
+R09B - HD 84,405 - Hollywood,297623,Suffolk (City),1458,1282
+R09B - HD 84,501 - Precinct 5-1,297232,Franklin (City),861,744
+R09B - HD 84,501 - Walters,296330,Isle of Wight,1230,175
+R09B - HD 84,502 - Beaver Dam,2228466,Isle of Wight,1509,466
+R09B - HD 84,504 - Lake Cohoon,297619,Suffolk (City),4616,1635
+R09B - HD 84,601 - Lakeside,297620,Suffolk (City),3261,2041
+R09B - HD 84,601 - Precinct 6-1,297233,Franklin (City),1134,611
+R09B - HD 84,602 - Olde Towne,297621,Suffolk (City),997,662
+R09B - HD 84,603 - Elephants Fork/Westhaven,297622,Suffolk (City),1285,672
+R09B - HD 84,604 - Wilroy,1706909,Suffolk (City),2851,1535
+R09B - HD 84,703 - Pughsville,2274031,Suffolk (City),2339,1760
+R09B - HD 84,704 - Burbage Grant,1706910,Suffolk (City),3104,1836
+R09B - HD 84,706 - Huntersville,1706911,Suffolk (City),3561,2614
+R09C - HD 89,004 - Churchland,297135,Chesapeake (City),2699,972
+R09C - HD 89,006 - Deep Creek,297137,Chesapeake (City),2786,1225
+R09C - HD 89,014 - Grassfield,297145,Chesapeake (City),4544,1732
+R09C - HD 89,019 - Jolliff,297150,Chesapeake (City),1866,556
+R09C - HD 89,020 - E W Chittum,297151,Chesapeake (City),3054,1245
+R09C - HD 89,021 - Fellowship,297152,Chesapeake (City),3325,1595
+R09C - HD 89,027 - Silverwood,297158,Chesapeake (City),2849,1310
+R09C - HD 89,028 - Sunray I,297159,Chesapeake (City),584,199
+R09C - HD 89,035 - Taylor Road,297166,Chesapeake (City),2184,1389
+R09C - HD 89,038 - Bailey Creek,297169,Chesapeake (City),2473,791
+R09C - HD 89,041 - John T West,297172,Chesapeake (City),4811,1986
+R09C - HD 89,044 - Nansemond,297175,Chesapeake (City),2728,1519
+R09C - HD 89,046 - Bells Mill II,297177,Chesapeake (City),2679,929
+R09C - HD 89,052 - Shipyard Road,892252,Chesapeake (City),2875,1266
+R09C - HD 89,064 - Deep Creek II,1992181,Chesapeake (City),3774,1698
+R09C - HD 89,301 - White Marsh,297606,Suffolk (City),800,597
+R09C - HD 89,302 - John F Kennedy,297607,Suffolk (City),3059,2467
+R09C - HD 89,304 - Nansemond River,297624,Suffolk (City),3354,1953
+R09C - HD 89,305 - Shoulders Hill,1706906,Suffolk (City),1359,695
+R09C - HD 89,401 - Airport,297611,Suffolk (City),2148,762
+R09C - HD 89,402 - Whaleyville,297613,Suffolk (City),2490,585
+R09C - HD 89,501 - Kilbys Mill,297616,Suffolk (City),3495,1332
+R09C - HD 89,502 - Holland,297617,Suffolk (City),2075,510
+R09C - HD 89,505 - Pittmantown,1706908,Suffolk (City),1717,591
+R09C - HD 89,605 - Mack Benn Jr,2274044,Suffolk (City),866,523
+R10C - HD 97,008 - Precinct 8,297634,Virginia Beach (City),3633,1631
+R10C - HD 97,012 - Precinct 12,297638,Virginia Beach (City),3999,1950
+R10C - HD 97,013 - Precinct 13,297639,Virginia Beach (City),4381,1785
+R10C - HD 97,024 - Precinct 24,297650,Virginia Beach (City),1263,459
+R10C - HD 97,026 - Precinct 26,297652,Virginia Beach (City),1998,778
+R10C - HD 97,027 - Precinct 27,297653,Virginia Beach (City),1651,573
+R10C - HD 97,036 - Precinct 36,297662,Virginia Beach (City),4576,2516
+R10C - HD 97,039 - Precinct 39,297665,Virginia Beach (City),2657,1167
+R10C - HD 97,051 - Precinct 51,297677,Virginia Beach (City),3041,1279
+R10C - HD 97,052 - Precinct 52,297678,Virginia Beach (City),4388,1947
+R10C - HD 97,053 - Precinct 53,297679,Virginia Beach (City),3435,1437
+R10C - HD 97,055 - Precinct 55,297681,Virginia Beach (City),4467,2466
+R10C - HD 97,068 - Precinct 68,297694,Virginia Beach (City),2915,1133
+R10C - HD 97,076 - Precinct 76,297702,Virginia Beach (City),4056,2423
+R10C - HD 97,077 - Precinct 77,297703,Virginia Beach (City),3537,1588
+R10C - HD 97,091 - Precinct 91,546530,Virginia Beach (City),4444,2212
+R10C - HD 97,094 - Precinct 94,546533,Virginia Beach (City),2461,1011
+R10C - HD 97,098 - Precinct 98,1848147,Virginia Beach (City),2357,1370
+R10C - HD 97,103 - Precinct 103,2274018,Virginia Beach (City),1875,1127
+R10C - HD 97,106 - Precinct 106,2274048,Virginia Beach (City),2370,1359
+R11C - HD 71,001 - Stryker,297717,Williamsburg (City),5521,3624
+R11C - HD 71,002 - Matoaka,297718,Williamsburg (City),5706,3574
+R11C - HD 71,102 - Berkeley B,296336,James City,3211,1380
+R11C - HD 71,103 - Berkeley C,296337,James City,3240,1065
+R11C - HD 71,104- Berkeley D,1888870,James City,1439,647
+R11C - HD 71,201 - Jamestown A,296338,James City,2352,1151
+R11C - HD 71,202 - Jamestown B,296339,James City,3585,1860
+R11C - HD 71,203 - Jamestown C,1569594,James City,3104,1334
+R11C - HD 71,204 - Jamestown D,1569595,James City,4014,1630
+R11C - HD 71,301 - Powhatan A,296340,James City,4328,1866
+R11C - HD 71,302 - Cumberland,296547,New Kent,1736,385
+R11C - HD 71,302 - Powhatan B,296341,James City,1496,701
+R11C - HD 71,303 - Powhatan C,296342,James City,3296,868
+R11C - HD 71,304 - Powhatan D,546535,James City,4051,1998
+R11C - HD 71,401 - Providence Forge,296551,New Kent,3307,955
+R11C - HD 71,401 - Stonehouse A,296343,James City,4669,2009
+R11C - HD 71,402 - Stonehouse B,296344,James City,5507,2261
+R11C - HD 71,403 - Mountcastle,296549,New Kent,1165,247
+R11C - HD 71,403 - Stonehouse C,546536,James City,4570,1596
+R11C - HD 71,501 - Eltham,296550,New Kent,1646,309
+R11C - HD 71,502 - Chickahominy River,296548,New Kent,2166,315
+R11D - HD 82,101 - First Ward First Precinct,297434,Petersburg (City),3116,2671
+R11D - HD 82,101 - Richard Bland,296661,Prince George,1409,467
+R11D - HD 82,101 - Surry,296974,Surry,1224,416
+R11D - HD 82,101 - White Oak,1569561,Dinwiddie,809,112
+R11D - HD 82,102 - Rocky Run,295775,Dinwiddie,1432,286
+R11D - HD 82,102 - Templeton,296662,Prince George,3987,865
+R11D - HD 82,103 - Church Road,295776,Dinwiddie,1987,266
+R11D - HD 82,103 - Union Branch,296663,Prince George,2428,865
+R11D - HD 82,105 - Harrison,296665,Prince George,983,174
+R11D - HD 82,201 - Bacons Castle,296975,Surry,1136,578
+R11D - HD 82,201 - Bland,296666,Prince George,4201,1690
+R11D - HD 82,201 - Rohoic,295774,Dinwiddie,1264,558
+R11D - HD 82,201 - Second Ward First Precinct,297435,Petersburg (City),3604,3182
+R11D - HD 82,202 - Blackwater,296667,Prince George,2776,891
+R11D - HD 82,202 - Sutherland,1569562,Dinwiddie,3075,957
+R11D - HD 82,203 - Brandon,296668,Prince George,945,227
+R11D - HD 82,301 - Dendron,296976,Surry,1143,535
+R11D - HD 82,301 - Reams,295779,Dinwiddie,856,185
+R11D - HD 82,301 - Third Ward First Precinct,297436,Petersburg (City),3760,3129
+R11D - HD 82,302 - New Hope,295780,Dinwiddie,1537,469
+R11D - HD 82,303 - Little Zion,295782,Dinwiddie,2268,838
+R11D - HD 82,401 - Carsley,296978,Surry,1180,557
+R11D - HD 82,401 - Dinwiddie,295781,Dinwiddie,2278,716
+R11D - HD 82,401 - Fourth Ward First Precinct,297437,Petersburg (City),3299,2740
+R11D - HD 82,501 - Claremont,296979,Surry,683,261
+R11D - HD 82,501 - Edgehill,295777,Dinwiddie,1112,658
+R11D - HD 82,501 - Fifth Ward First Precinct,297438,Petersburg (City),3395,2968
+R11D - HD 82,502 - Chesdin,295778,Dinwiddie,2735,1337
+R11D - HD 82,502 - Spring Grove,296980,Surry,362,275
+R11D - HD 82,601 - Sixth Ward First Precinct,297439,Petersburg (City),3565,3232
+R11D - HD 82,701 - Seventh Ward First Precinct,297440,Petersburg (City),3535,3140
+R12A - Harrisonburg,101 - Broadway,296815,Rockingham,3007,468
+R12A - Harrisonburg,101 - Northeast,297279,Harrisonburg (City),4017,2512
+R12A - Harrisonburg,101 - Orkney Springs,296876,Shenandoah,1720,327
+R12A - Harrisonburg,101 - West Luray,296583,Page,3630,660
+R12A - Harrisonburg,102 - East Central,297280,Harrisonburg (City),2528,1582
+R12A - Harrisonburg,102 - Timberville,296816,Rockingham,1858,190
+R12A - Harrisonburg,103 - Fulks Run,296817,Rockingham,1600,90
+R12A - Harrisonburg,103 - New Market,296878,Shenandoah,3790,528
+R12A - Harrisonburg,103 - Southeast,297281,Harrisonburg (City),3437,2001
+R12A - Harrisonburg,104 - Bergton,296818,Rockingham,520,27
+R12A - Harrisonburg,104 - East,1569638,Harrisonburg (City),3768,2007
+R12A - Harrisonburg,105 - Lacey Spring,296819,Rockingham,2416,187
+R12A - Harrisonburg,105 - South East Central,1866910,Harrisonburg (City),1125,363
+R12A - Harrisonburg,106 - Lone Pine,2228492,Rockingham,2237,212
+R12A - Harrisonburg,201 - Conicville,296879,Shenandoah,3021,324
+R12A - Harrisonburg,201 - East Luray,296584,Page,3614,522
+R12A - Harrisonburg,201 - Northwest,297282,Harrisonburg (City),4081,2251
+R12A - Harrisonburg,201 - Singers Glen,296822,Rockingham,1745,197
+R12A - Harrisonburg,202 - Edom,296823,Rockingham,3146,565
+R12A - Harrisonburg,202 - Mt Jackson,296880,Shenandoah,2422,326
+R12A - Harrisonburg,202 - Southwest,297283,Harrisonburg (City),3637,2094
+R12A - Harrisonburg,203 - Dayton,296836,Rockingham,1195,226
+R12A - Harrisonburg,203 - West,1569639,Harrisonburg (City),3673,2253
+R12A - Harrisonburg,204 - Mt Clinton,296825,Rockingham,1927,266
+R12A - Harrisonburg,205 - Silver Lake,296837,Rockingham,3032,716
+R12A - Harrisonburg,301 - Keezletown,296827,Rockingham,1299,210
+R12A - Harrisonburg,301 - Marksville,296585,Page,3914,359
+R12A - Harrisonburg,302 - Edinburg,296882,Shenandoah,2054,318
+R12A - Harrisonburg,302 - Port Republic,296828,Rockingham,1362,198
+R12A - Harrisonburg,303 - Melrose,296824,Rockingham,1078,136
+R12A - Harrisonburg,303 - St Luke,296883,Shenandoah,2698,284
+R12A - Harrisonburg,304 - Fort Valley,296885,Shenandoah,1235,213
+R12A - Harrisonburg,304 - Grottoes,296830,Rockingham,2340,299
+R12A - Harrisonburg,305 - Massanetta Springs,296831,Rockingham,3859,1049
+R12A - Harrisonburg,306 - Crossroads,1854605,Rockingham,3183,870
+R12A - Harrisonburg,401 - Newport,296586,Page,3243,267
+R12A - Harrisonburg,401 - West Bridgewater,296833,Rockingham,1569,331
+R12A - Harrisonburg,401 - Woodstock North,296884,Shenandoah,2728,582
+R12A - Harrisonburg,402 - Montezuma,296834,Rockingham,1790,208
+R12A - Harrisonburg,402 - Woodstock South,2274012,Shenandoah,2334,532
+R12A - Harrisonburg,403 - Mt Crawford,296835,Rockingham,307,45
+R12A - Harrisonburg,404 - North River,296829,Rockingham,3060,654
+R12A - Harrisonburg,405 - Ottobine,296826,Rockingham,2101,156
+R12A - Harrisonburg,406 - East Bridgewater,1988663,Rockingham,2399,606
+R12A - Harrisonburg,501 - Cedar Creek,296886,Shenandoah,225,27
+R12A - Harrisonburg,501 - Elkton,296838,Rockingham,2284,296
+R12A - Harrisonburg,501 - Shenandoah,296587,Page,3405,282
+R12A - Harrisonburg,502 - Swift Run,296840,Rockingham,3078,200
+R12A - Harrisonburg,503 - McGaheysville,296841,Rockingham,2815,393
+R12A - Harrisonburg,503 - Toms Brook,296888,Shenandoah,3327,481
+R12A - Harrisonburg,504 - Lebanon Church,296889,Shenandoah,2332,301
+R12A - Harrisonburg,504 - South Fork,296842,Rockingham,1396,108
+R12A - Harrisonburg,505 - Stony Run,296843,Rockingham,2101,469
+R12A - Harrisonburg,506 - Deep Run,2228450,Rockingham,1318,144
+R12A - Harrisonburg,601 - Strasburg West,296890,Shenandoah,2793,614
+R12A - Harrisonburg,602 - Strasburg East,948801,Shenandoah,2804,603
+R13D - HD 41,101 - Catawba,296764,Roanoke,2692,405
+R13D - HD 41,101 - Precinct A-1,296512,Montgomery,2321,1088
+R13D - HD 41,102 - Precinct A-2,296513,Montgomery,2681,1813
+R13D - HD 41,103 - North Glenvar,2274037,Roanoke,2245,379
+R13D - HD 41,103 - Precinct A-3,296514,Montgomery,298,150
+R13D - HD 41,104 - Precinct A-4,2257731,Montgomery,2709,1806
+R13D - HD 41,105 - Precinct A-5,2257743,Montgomery,1910,934
+R13D - HD 41,106 - South Glenvar,2274050,Roanoke,1316,179
+R13D - HD 41,201 - Precinct B-1,296515,Montgomery,888,202
+R13D - HD 41,301 - Bent Mountain,296778,Roanoke,752,151
+R13D - HD 41,301 - Precinct C-1,296518,Montgomery,3264,586
+R13D - HD 41,302 - Back Creek,2274026,Roanoke,3194,812
+R13D - HD 41,302 - Precinct C-2,296519,Montgomery,1391,401
+R13D - HD 41,303 - Precinct C-3,296520,Montgomery,1301,226
+R13D - HD 41,307 - West Hidden Valley,2274023,Roanoke,1942,615
+R13D - HD 41,401 - Precinct D-1,296522,Montgomery,3178,592
+R13D - HD 41,402 - Precinct D-2,296523,Montgomery,3228,552
+R13D - HD 41,404 - Precinct D-4,296525,Montgomery,1372,191
+R13D - HD 41,501 - Starkey,2274016,Roanoke,1948,571
+R13D - HD 41,503 - Precinct E-3,1569606,Montgomery,1488,707
+R13D - HD 41,504 - Precinct E-4,2257681,Montgomery,666,382
+R13D - HD 41,601 - Precinct F-1,296529,Montgomery,2939,1731
+R13D - HD 41,602 - Precinct F-2,296530,Montgomery,3205,2023
+R13D - HD 41,603 - Precinct F-3,1829916,Montgomery,995,449
+R13D - HD 41,701 - Precinct G-1,296531,Montgomery,3363,2203
+R13D - HD 41,702 - Precinct G-2,296532,Montgomery,2610,1579
+R13D - HD 41,703 - Precinct G-3,2257733,Montgomery,2231,1387
